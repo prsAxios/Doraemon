@@ -13,3 +13,5 @@ AI-powered analysis of medical records.
 Identification of screening gaps for proactive treatment.
 Personalized treatment plans based on individual data.
 Data privacy ensured through advanced encryption.
+
+![image](https://github.com/user-attachments/assets/fd1ab7b9-4d37-47e0-b350-8f9179e300f9)
