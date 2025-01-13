@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <PrivyProvider
-    appId="cm30ex13o00zbsai7kz0xop66"
+    appId={import.meta.env.VITE_PRIVY_APP_ID} 
     config={{
       appearance: {
         theme: "dark",
